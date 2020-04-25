@@ -8,7 +8,7 @@ It aims to help someone get started fast and gain a high-level understanding of 
 
 After completion, someone will have built intuition over the machine learning lifecycle. 
 
-------------
+
 
 ## Contents
 
