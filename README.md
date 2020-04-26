@@ -16,7 +16,7 @@ After completion, someone will have built intuition over the machine learning li
 
 02 Predict insurance prices using linear regression in Python
 
-03 Predict real estate prices in New York with using linear regression in Python
+03 Predict real estate prices in New York using linear regression in Python
 
 04 Classify elderly activities using k-nearest neighbours in Python
 
