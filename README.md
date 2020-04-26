@@ -2,7 +2,7 @@
 
 ## About
 
-Machine Learning Starters is a collection of fast fundamental machine learning projects in Python for starters.
+Machine Learning Starters is a collection of fast fundamental machine learning practice sets in Python for starters.
 
 It aims to help someone get started fast and gain a high-level understanding of the fundamental steps in the machine learning lifecycle early on.
 
