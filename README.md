@@ -50,21 +50,9 @@ After completion, someone will have built intuition over the machine learning li
 
 
 
-## About
-
-This is a fast fundamental machine learning project in Python for starters.
-
-It aims to help someone get started fast and gain a high-level understanding of the fundamental steps in the machine learning lifecycle early on.
-
-After completion, someone will have built intuition over the machine learning lifecycle. 
-
-This work is part of a collection of projects called Machine Learning Starters.
-
-
-
 ## More
 
-If you found this work interesting, you might like the following. You can find them at github.com/jamiemorales.
+If you found this work interesting, you might like the following. You can find them at [github.com/jamiemorales](https://github.com/jamiemorales).
 
 Machine Learning Starters
 
