@@ -24,11 +24,11 @@ After completion, someone will have built intuition over the machine learning li
 
 06 Classify flower species using k-nearest neighbours in Python
 
-07 Classify whether a financial activity is fraud using decision tree classifier in Python
+07 Classify whether a financial activity is fraud using DT classifier in Python
 
-08 Classify whether patient is a liver disease patient using decision tree classifier in Python
+08 Classify whether patient is a liver disease patient using DT classifier in Python
 
-09 Classify whether a mushroom is poisoned using decision tree classifier in Python
+09 Classify whether a mushroom is poisoned using DT classifier in Python
 
 10 Detect financial fraud using support vector machines (SVM) in Python
 
