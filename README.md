@@ -1,8 +1,8 @@
-# Machine Learning Starters
+# Machine Learning Starter
 
 ## About
 
-Machine Learning Starters is a collection of fast fundamental machine learning practice sets in Python for starters.
+Machine Learning Starter is a collection of fast fundamental machine learning practice sets in Python.
 
 It aims to help someone get started fast and gain a high-level understanding of the fundamental steps in the machine learning lifecycle early on.
 
@@ -54,11 +54,11 @@ After completion, someone will have built intuition over the machine learning li
 
 If you found this work interesting, you might like the following. You can find them at [github.com/jamiemorales](https://github.com/jamiemorales).
 
-Machine Learning Starters
+Machine Learning Starter
 
-Deep Learning Starters
+Deep Learning Starter
 
-Natural Language Processing Starters
+Natural Language Processing Starter
 
 
 
