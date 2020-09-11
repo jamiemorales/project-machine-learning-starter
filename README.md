@@ -62,12 +62,6 @@ Natural Language Processing Starter
 
 
 
-## License
-
-https://creativecommons.org/licenses/by-sa/4.0/
-
-
-
 ## Data sources
 
 [Datasets and sources](https://github.com/jamiemorales/project-machine-learning-starter/blob/master/00-Datasets/Data%20sources.txt)
